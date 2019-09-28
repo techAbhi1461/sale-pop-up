@@ -42,6 +42,7 @@ button{
     width: 100vw;
     height: 100vh;
     position: absolute;
+    display: none;
 }
 
 .popup-section > div.popup-text{
